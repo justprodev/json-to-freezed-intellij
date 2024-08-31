@@ -18,11 +18,12 @@ void main() {
       final model = DefaultModel.fromJson(json);
       compare(json, model.toJson);
       const defaultModel = DefaultModel();
-      defaultModel.stringV == '';
-      defaultModel.listV == [];
-      defaultModel.boolV == false;
-      defaultModel.intV == 0;
-      defaultModel.doubleV == 0.0;
+      print (defaultModel.toJson());
+      expect(defaultModel.stringV == '', true);
+      expect(defaultModel.listV.isEmpty, true);
+      expect(defaultModel.boolV == false, true);
+      expect(defaultModel.intV == 0, true);
+      expect(defaultModel.doubleV == 0.0, true);
     });
   });
 }
