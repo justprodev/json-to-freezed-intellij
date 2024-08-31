@@ -2,7 +2,7 @@
 // All rights reserved. Use of this source code is governed by a
 // MIT License that can be found in the LICENSE file.
 
-package com.justprodev.dart_json_generator.ui
+package com.justprodev.json_to_freezed.ui
 
 import com.intellij.icons.AllIcons
 import com.intellij.json.JsonLanguage
@@ -20,11 +20,11 @@ import com.intellij.openapi.fileEditor.impl.text.TextEditorProvider
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.util.Disposer
 import com.intellij.psi.PsiFileFactory
-import com.justprodev.dart_json_generator.generator.Generator
-import com.justprodev.dart_json_generator.generator.ModelName
-import com.justprodev.dart_json_generator.generator.Settings
-import com.justprodev.dart_json_generator.utils.JsonContainer
-import com.justprodev.dart_json_generator.utils.getString
+import com.justprodev.json_to_freezed.generator.Generator
+import com.justprodev.json_to_freezed.generator.ModelName
+import com.justprodev.json_to_freezed.generator.Settings
+import com.justprodev.json_to_freezed.utils.JsonContainer
+import com.justprodev.json_to_freezed.utils.getString
 import java.awt.BorderLayout
 import java.awt.Dimension
 import java.awt.Window

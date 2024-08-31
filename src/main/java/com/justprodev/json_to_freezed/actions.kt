@@ -2,8 +2,8 @@
 // All rights reserved. Use of this source code is governed by a
 // MIT License that can be found in the LICENSE file.
 
-import com.intellij.json.JsonLanguage
-import com.intellij.lang.Language
+package com.justprodev.json_to_freezed
+
 import com.intellij.openapi.actionSystem.AnAction
 import com.intellij.openapi.actionSystem.AnActionEvent
 import com.intellij.openapi.actionSystem.LangDataKeys
@@ -17,9 +17,9 @@ import com.intellij.psi.PsiFile
 import com.intellij.psi.PsiFileFactory
 import com.intellij.psi.PsiManager
 import com.intellij.psi.util.PsiUtilBase
-import com.justprodev.dart_json_generator.generator.ModelName
-import com.justprodev.dart_json_generator.ui.GeneratorDialog
-import com.justprodev.dart_json_generator.utils.*
+import com.justprodev.json_to_freezed.generator.ModelName
+import com.justprodev.json_to_freezed.ui.GeneratorDialog
+import com.justprodev.json_to_freezed.utils.*
 
 class DartJsonGenerateAction : AnAction() {
     override fun actionPerformed(event: AnActionEvent) {

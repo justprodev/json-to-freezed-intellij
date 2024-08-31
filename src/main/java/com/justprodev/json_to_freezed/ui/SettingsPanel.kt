@@ -2,11 +2,10 @@
 // All rights reserved. Use of this source code is governed by a
 // MIT License that can be found in the LICENSE file.
 
-package com.justprodev.dart_json_generator.ui
+package com.justprodev.json_to_freezed.ui
 
-import com.justprodev.dart_json_generator.generator.Settings
-import com.justprodev.dart_json_generator.utils.LabelsBundle
-import com.justprodev.dart_json_generator.utils.getString
+import com.justprodev.json_to_freezed.generator.Settings
+import com.justprodev.json_to_freezed.utils.getString
 import javax.swing.BoxLayout
 import javax.swing.BoxLayout.Y_AXIS
 import javax.swing.JCheckBox

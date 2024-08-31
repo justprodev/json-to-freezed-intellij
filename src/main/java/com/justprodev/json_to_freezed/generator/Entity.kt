@@ -2,12 +2,14 @@
 // All rights reserved. Use of this source code is governed by a
 // MIT License that can be found in the LICENSE file.
 
+package com.justprodev.json_to_freezed.generator
+
 import com.google.gson.JsonArray
 import com.google.gson.JsonElement
 import com.google.gson.JsonObject
 import com.google.gson.JsonPrimitive
-import com.justprodev.dart_json_generator.utils.toCamelCase
-import com.justprodev.dart_json_generator.utils.toUpperCaseFirstOne
+import com.justprodev.json_to_freezed.utils.toCamelCase
+import com.justprodev.json_to_freezed.utils.toUpperCaseFirstOne
 
 /**
  * Class to represent the structure of the JSON object
