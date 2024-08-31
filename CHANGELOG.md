@@ -1,5 +1,12 @@
 # Change Log
 
+## [4.1.0]
+
+**Enhancement**
+
+- introduce Settings: added ability to generate `@Default` annotations
+- stop adding `Bean` to subclasses (non-Dart way)
+
 ## [4.0.5]
 
 **BugFix**
