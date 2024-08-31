@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:none;}
+	.st1{fill:#042B59;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'Roboto-Medium';}
+	.st4{font-size:4.3742px;}
+	.st5{opacity:0.72;fill:#FFFFFF;enable-background:new    ;}
+</style>
+<rect x="28.6" y="5.9" class="st0" width="4.3" height="0.6"/>
+<rect x="8.5" y="23.1" class="st0" width="26.7" height="4.2"/>
+<rect class="st1" width="40" height="40"/>
+<text transform="matrix(0.9833 0 0 1 4.3449 32.4148)" class="st2 st3 st4">{JsonToFreezed}</text>
+<path class="st2" d="M15.1,14.5l-3.7,3.7l3.7,3.7h-4.2l-1.6-1.6l0,0l-2.1-2.1l3.7-3.7H15.1z M10.9,8.2L4.1,15l2.1,2.1l8.9-8.9H10.9z
+	"/>
+<g>
+	<g>
+		<path class="st5" d="M33.3,10.6L33.3,10.6L33.3,10.6L33,10.3l-2.2-2.2c-0.2-0.2-0.7-0.5-1-0.5c-0.3,0-0.6,0.1-0.9,0.2l-4.5,2.3
+			l0,0l0,0l0,0l-2.3,4.7c-0.1,0.2-0.2,0.5-0.2,0.7c0,0.4,0.2,0.8,0.5,1.1l2.8,2.8h11.1v-5.9L33.3,10.6z"/>
+		<path class="st5" d="M24.4,10.1v7.7c0,0.8,0.1,0.9,0.5,1.3l2.9,2.9h6v-2.6L24.4,10.1z"/>
+		<path class="st5" d="M33.3,10.6l-2.5-2.5c-0.2-0.2-0.7-0.5-1-0.5c-0.3,0-0.6,0.1-0.9,0.2l-4.5,2.3h7.6
+			C32.5,10.1,32.8,10.2,33.3,10.6z"/>
+	</g>
+</g>
+</svg>

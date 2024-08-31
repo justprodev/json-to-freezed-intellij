@@ -1,0 +1,102 @@
+{
+  "code": "2000",
+  "data": {
+    "test_field": "aaa",
+    "facetoface_address": {
+      "address": "",
+      "receiver": "Luo",
+      "receiver_cellphone": "1388345****",
+      "sid": "001190e19e754001b53701d0aa81bfe0",
+      "sort_number": 1,
+      "title": "Ms.",
+      "type": "FACETOFACE",
+      "user_sid": "a19cf6e3586143d283dd4128c456bfaf"
+    },
+    "order": {
+      "bidding": 2300,
+      "broker_avatar": "broker/getAvatar?key=avatar/b82378ccaccb403c9d8420274372c904",
+      "broker_cellphone": "1347282****",
+      "broker_deal_num": 15,
+      "broker_name": "Wang**",
+      "broker_sid": "b82378ccaccb403c9d8420274372c904",
+      "broker_stars": 4.5,
+      "code": "1512151307270113",
+      "cover": "show/getPoster?key=52f30bbce4ef4122919cbc95c2f01c36/52f30bbce4ef4122919cbc95c2f01c36",
+      "created_datetime": "2015-12-15 13:07:28",
+      "delivery_address_sid": "c25c1954ca204dee8fc18f51bcc71a3e",
+      "delivery_fee": 0,
+      "evaluate_starts": 0,
+      "is_delete": false,
+      "is_sequential": false,
+      "order_status": "CLOSED",
+      "order_status_array": [
+        {
+          "operate_datetime": "2015-12-15 13:07:28",
+          "operate_user_sid": "b82378ccaccb403c9d8420274372c904",
+          "operate_username": "Wang**",
+          "order_sid": "21bc3cc65e9e47af952c1f4f1f0fd85a",
+          "order_type": "1",
+          "sid": "04940ed81540466ea4408f79989a5d54",
+          "state": "TAKING"
+        }
+      ],
+      "order_status_desp": "",
+      "order_type": "1",
+      "pay_type": "",
+      "post_ticket_sid": "65cc6d54300349e984134ecd0faf3ede",
+      "receive_datetime": "2015-12-15 13:07:28",
+      "receiver": "Zhang**",
+      "receiver_address": "Kongjiang Road 1209",
+      "receiver_cellphone": "1502379****",
+      "receiver_title": "Mr.",
+      "remark": "",
+      "request_datetime": "2015-12-15 13:07:28",
+      "show_name": "Love Radio Pin Guan Where Are You Now Tour Concert Shanghai Station",
+      "show_schedule": "2016-01-09 19:30:00",
+      "show_schedule_sid": "eecfd0657fb445a7a36abedc9b621c89",
+      "show_sid": "52f30bbce4ef4122919cbc95c2f01c36",
+      "sid": "21bc3cc65e9e47af952c1f4f1f0fd85a",
+      "state_desp": "Closed",
+      "ticket_price": 88000,
+      "ticket_quantity": 1,
+      "ticket_sid": "c4583aa8a79a478e8e5cd14691028430",
+      "total_price": 2300,
+      "trade_type": "EXPRESS",
+      "user_cellphone": "1502379****",
+      "user_leave_message": "",
+      "user_sid": "a19cf6e3586143d283dd4128c456bfaf",
+      "venue_address": "No. 777 Wuyi Road, Changning District, Shanghai",
+      "venue_name": "Shanghai International Gymnastics Center"
+    }
+  },
+  "test_from_list": [
+    {
+      "test_key": "testValue"
+    }
+  ],
+  "extra_data": [],
+  "message": "",
+  "success": true,
+  "int_list": [
+    1,
+    2,
+    3
+  ],
+  "bool_list": [
+    true,
+    false,
+    true,
+    true
+  ],
+  "double_list": [
+    0.324542354353425342436764765746575473434564564564564,
+    1.100000000000000088817841970012523233890533447265625,
+    2.20000000000000017763568394002504646778106689453125,
+    3.29999999999999982236431605997495353221893310546875
+  ],
+  "empty_list": [],
+  "null_list": [
+    null
+  ],
+  "null_obj": null
+}
