@@ -250,6 +250,6 @@ class FacetofaceAddress with _$FacetofaceAddress {
   factory FacetofaceAddress.fromJson(Map<String, Object?> json) => _$FacetofaceAddressFromJson(json);
 }
 ```
-You can generate @Default, enable in Settings
+You can generate [@Default](https://pub.dev/packages/freezed#default-values), enable in Settings
 
 ![settings](/screenshots/settings.png)
