@@ -5,7 +5,6 @@
 package com.justprodev.json_to_freezed.ui
 
 import com.intellij.icons.AllIcons
-import com.intellij.json.JsonLanguage
 import com.intellij.lang.Language
 import com.intellij.openapi.actionSystem.AnActionEvent
 import com.intellij.openapi.actionSystem.Presentation
@@ -239,7 +238,10 @@ class GeneratorDialog(
 private fun Project.createEditor(): Editor {
     val editor = TextEditorProvider.getInstance().createEditor(
         this,
-        PsiFileFactory.getInstance(this).createFileFromText(Language.findLanguageByID(JsonLanguage.INSTANCE.id)!!, "").virtualFile
+        PsiFileFactory.getInstance(this).createFileFromText(
+            Language.findInstancesByMimeType("application/json").first(),
+            ""
+        ).virtualFile
     ) as TextEditor
 
     Disposer.register(this, editor)

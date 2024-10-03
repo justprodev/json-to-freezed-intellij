@@ -1,5 +1,12 @@
 # Change Log
 
+## [4.1.1]
+
+**BugFix**
+
+- fix compatibility with IntelliJ IDEA Ultimate 2024.3 eap
+
+
 ## [4.1.0]
 
 **Enhancement**
