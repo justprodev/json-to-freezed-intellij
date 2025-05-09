@@ -46,7 +46,7 @@ class Generator(private val settings: SettingsData) {
         with(entity) {
             // class
             append("@freezed\n")
-            append("class $type with _\$$type {\n")
+            append("abstract class $type with _\$$type {\n")
 
             // constructor
             append("  const factory $type(")
