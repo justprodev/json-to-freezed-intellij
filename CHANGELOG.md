@@ -1,5 +1,12 @@
 # Change Log
 
+## [4.1.2]
+
+**BugFix**
+
+- supporting [freezed](https://pub.dev/packages/freezed) v3
+
+
 ## [4.1.1]
 
 **BugFix**
